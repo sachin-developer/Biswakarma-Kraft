@@ -358,11 +358,11 @@
 		display:inline-block;
 		z-index:7;
 		top:-4px;
-		border:1px solid #009647;
+		border:1px solid #ff9800;
 		float:none;
 		margin:0px 0px 0px 0px;
 		border-radius:0px;
-		background:#009647;
+		background:#ff9800;
 	}
 	
 	.header-type-one .navbar-header .navbar-toggle{
@@ -378,8 +378,8 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background:#009647;
-		border:1px solid #ffffff;
+		background:#ff9800;
+		border:1px solid #ff9800;
 		border-top:none;
 	}
 	
@@ -424,7 +424,7 @@
 		right:auto !important;
 		top:auto !important;
 		width:100%;
-		background:#009647;
+		background:#ff9800;
 		-webkit-border-radius:0px;
 		-ms-border-radius:0px;
 		-o-border-radius:0px;
@@ -463,7 +463,7 @@
 		padding:12px 15px !important;
 		line-height:22px;
 		color:#ffffff;
-		background:#009647;
+		background:#ff9800;
 		text-align:left;
 		min-height:0px;
 		font-size:14px;
